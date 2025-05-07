@@ -12,7 +12,6 @@ const server = http.createServer((req, res)=> {
     res.end("Hello from Dipan")
 });
 
-// rftgbytretvf
 server.listen(8000, ()=>{
     console.log("Server running at http://localhost:8000")
 })
