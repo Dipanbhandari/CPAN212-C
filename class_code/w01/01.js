@@ -3,8 +3,8 @@
 // npm lodash for node_modules 
 console.log("hello world")
 
-const greeeting = (name) => {
+const greeting = (name) => {
     return `Hello ${name}`;
 }
 
-console.log(greeting("Harman"))
+console.log(greeting("Harman"));
